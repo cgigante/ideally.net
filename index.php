@@ -65,7 +65,7 @@
                 <div class="col-lg-12 text-center">
                     <h1><i class="fa fa-comments-o"></i></h1>
                     <h2>Changing the way we interact with each other.</h2>
-                    <p class="lead">By tightly integrating location with messaging, ideally is changing ordinary messages into something far more compelling and powerful. Stay tuned for our debut. <!-- <strong>Place</strong> allows you to leave a message for your friend just when she's walked into the coffee shop you want her to bring you something from. <strong>Place</strong> lets you tell your pal to get out of the bar that he passed out in during your last wild night. <strong>Place</strong> lets you leave a sweet note for your new girl just when she arrives home and can actually enjoy the moment.<br><strong>Place</strong> is directly connected to almost everything that triggers and shapes our emotions --></p>
+                    <p class="lead">By tightly integrating location with messaging, ideally is changing ordinary messages into something far more compelling and powerful. <!-- <strong>Place</strong> allows you to leave a message for your friend just when she's walked into the coffee shop you want her to bring you something from. <strong>Place</strong> lets you tell your pal to get out of the bar that he passed out in during your last wild night. <strong>Place</strong> lets you leave a sweet note for your new girl just when she arrives home and can actually enjoy the moment.<br><strong>Place</strong> is directly connected to almost everything that triggers and shapes our emotions --></p>
                 </div>
             </div>
         </div>
@@ -78,8 +78,8 @@
             <div class="row text-center">
                 <div class="col-lg-10 col-lg-offset-1">
                     <h1><i class="fa fa-cogs"></i></h1>
-                    <h2>In Development</h2>
-                    <h4><em>Coming 2016</em></h4>
+                    <h2>ideally products</h2>
+                    <h4><em>currently available</em></h4>
                     <hr class="small">
                     <div class="row">
 
@@ -94,7 +94,7 @@
                                 </h4>
                                 <p>The Shmap application serves the messaging needs of end consumers as well as brands and businesses looking to leverage recent advances of mobile location technology. <!-- In addition to powering conventional one-to-one messaging, Shmap messages are delivered to recipients (either privately to direct contacts or to any user of the app) only when the recipient enters the location where the message was left. Businesses can also deliver messages to users when they come in proximity of their premises. --></p>
                                 <!-- Learn More button: -->
-                                <a href="http://www.shmap.me" class="btn btn-light" target="_blank">Learn More</a>
+                                <a href="http://www.shmap.me" class="btn btn-light" target="_blank">visit <strong>shmap.me</strong></a>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
