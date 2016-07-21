@@ -7,14 +7,14 @@
     ?>
     <title>ideally | Mobile App Developers | Shmap</title>
 
-
+    <!-- Google Analytics Tracking Code added via PHP  -->
+    <?php include_once("analyticstracking.php") ?>
 </head>
 
 <body>
 
 
-    <!-- Google Analytics Tracking Code added via PHP  -->
-    <?php include_once("analyticstracking.php") ?>
+
 
 
     <!-- /////////////////////////////////// Navigation /////////////////////////////////// -->
@@ -49,7 +49,7 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1><i class="fa fa-map-marker"></i></h1>
+            <h1><i class="fa fa-mobile"></i></h1>
             <!-- <h1><i class="fa fa-comments-o"></i></h1> -->
             <h1 class="">ideally</h1>
             <h3>Extraordinary mobile services.</h3>
